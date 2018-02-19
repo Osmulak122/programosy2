@@ -26,7 +26,7 @@ bot.on("message", function(message) {
                 message.delete();
                 message.channel.send("Magik ssie");
                 break;
-            case "minty";
+            case "minty":
                 message.channel.send("no chyba nie");
                 break;
 
